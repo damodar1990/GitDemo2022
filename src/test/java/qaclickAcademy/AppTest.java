@@ -55,4 +55,19 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void testApp2022damo()
+    {
+        assertTrue( true );
+    }
+    
+    public void testApp2022Junedamo()
+    {
+        assertTrue( true );
+    }
+    
+    public void testApp2022June1damo()
+    {
+        assertTrue( true );
+    }
 }
