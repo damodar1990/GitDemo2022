@@ -51,5 +51,8 @@ public class AppTest
         assertTrue( true );
     }
     
-    
+    public void testApp2022June1()
+    {
+        assertTrue( true );
+    }
 }
